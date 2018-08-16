@@ -13,3 +13,5 @@ Quorum Sensing Tra System_tunedkbasal.sbproj   - model to tune the input-output 
 Quorum Sensing Tra System_tunedbasal+translation.sbproj  - model tuning input-output response curve by altering kbasal and ktranslationGFP
 
 Quorum Sensing Tra System_tunedallparameters.sbproj    - model tuning input-output response curve altering kbasal, ktranslationGFP and ktranscriptionTraR
+
+rgb.m     - code for colour of barcharts in MH07 sensitivity analysis
